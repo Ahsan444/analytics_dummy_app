@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "563740512170",
+    "project_id": "dummy-analytics-203aa",
+    "storage_bucket": "dummy-analytics-203aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563740512170:android:941de4a12728882be165d3",
+        "android_client_info": {
+          "package_name": "com.trackbar.analytics_dummy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563740512170-hrl2laf0r25rqga14rskqnlloqdskfgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2tI6LR-WArTpJKuucfoWQyer99PqWsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563740512170-hrl2laf0r25rqga14rskqnlloqdskfgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563740512170-13uvnafq7v5g2ajkntor07snke1mpfk0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trackbar.analyticsDummyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
